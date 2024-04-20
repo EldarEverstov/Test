@@ -4,7 +4,7 @@ int main() {
 	int a;
 	cin >> a;
 	if (a == 1) {
-		cout << "Hello world";
+		cout << "Hello my friends!";
 	}
 	return 0;
 }
